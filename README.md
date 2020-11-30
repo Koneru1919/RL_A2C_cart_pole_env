@@ -1,1 +1,1 @@
-# RL_A2C_cart_pole_env
+taken environment Cart pole is imported from the open AI gym.To solve the  task,Actor Critic algorithm an On-policy algorithm has been taken into consideration.
